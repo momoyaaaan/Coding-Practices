@@ -16,8 +16,8 @@ int main(void){
 
 
 
-//or this lmao
-//bloated code xd
+//or this interesting bloated code lmao
+//
 
 
 #include<stdio.h>
